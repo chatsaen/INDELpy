@@ -1,4 +1,4 @@
-SNPpycode
+INFELpy
 =========
 
-python code for SNP sorting in wgs data
+python code for INDEL sorting in sam data
