@@ -1,4 +1,4 @@
-INFELpy
+RiceNGSpy
 =========
 
-python code for INDEL sorting in sam data
+python code for Rice NGS data
